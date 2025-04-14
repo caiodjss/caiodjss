@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Sou estudante de **Desenvolvimento de Sistemas** no **SENAI CIMATEC**, em transição para a área de tecnologia. Estou me especializando no desenvolvimento **fullstack**, com foco nas tecnologias **JavaScript**, **TypeScript**, **Node.js**, **React Native**, **Angular** e **jQuery**.
+Olá! Sou estudante de **Desenvolvimento de Sistemas** no **SENAI CIMATEC**, em transição para a área de tecnologia. Estou me especializando no desenvolvimento **fullstack**, com foco nas tecnologias **Java**, **JavaScript**, **TypeScript**, **Node.js** e **React Native**.
 
 Atualmente, busco aplicar meus conhecimentos em projetos práticos, sempre focado na evolução contínua e na colaboração com a comunidade.
 
@@ -23,6 +23,7 @@ Atualmente, busco aplicar meus conhecimentos em projetos práticos, sempre focad
 
 Aqui estão algumas das tecnologias e ferramentas que estou utilizando para aprimorar minhas habilidades:
 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
@@ -37,20 +38,20 @@ Aqui estão algumas das tecnologias e ferramentas que estou utilizando para apri
 
 ## 🧑‍💻 Projetos em Destaque
 
-### 1. [**Projeto 1: Desenvolvimento de API com Node.js**](https://github.com/caiodjss/projeto-api)
-   - Descrição do projeto: Uma API RESTful para gerenciamento de usuários, utilizando Node.js e Express.
-   - Tecnologias: Node.js, Express, MongoDB, JWT.
-   - O que aprendi: Aprimorei minhas habilidades em desenvolvimento backend, integração com banco de dados e autenticação de usuários.
+### 1. [**Lofi Radio**](https://github.com/caiodjss/lofi-radio)
+   - Descrição do projeto: Uma aplicação de rádio Lo-Fi, com streaming de música para estudo e relaxamento.
+   - Tecnologias: HTML, CSS, JavaScript, React-Native e TypeScript.
+   - O que aprendi: Aprimorei minhas habilidades de front-end e integração com APIs para streaming de música.
 
-### 2. [**Projeto 2: Aplicativo de Tarefas com React Native**](https://github.com/caiodjss/projeto-tarefas)
-   - Descrição do projeto: Um aplicativo para gerenciamento de tarefas, desenvolvido com React Native.
-   - Tecnologias: React Native, Redux, AsyncStorage.
-   - O que aprendi: Aprendi a construir aplicativos móveis, gerenciar estado com Redux e armazenar dados localmente no dispositivo.
+### 2. [**Bratso**](https://github.com/caiodjss/bratso)
+   - Descrição do projeto: Construindo o site principal da empresa que idealizei.
+   - Tecnologias: React, Node.js, MySQL.
+   - O que aprendi: Melhorei minhas habilidades em React e backend com Node.js e MySQL.
 
-### 3. [**Projeto 3: Dashboard com Angular**](https://github.com/caiodjss/projeto-dashboard)
-   - Descrição do projeto: Criação de um dashboard para análise de dados em tempo real, com Angular.
-   - Tecnologias: Angular, RxJS, Chart.js.
-   - O que aprendi: Aprimorei o uso de Angular, RxJS para gerenciamento de dados assíncronos e integração com APIs externas.
+### 3. [**Projeto 1**](https://github.com/caiodjss/Projeto1)
+   - Descrição do projeto: Uma aplicação de exemplo para estudos, com funcionalidades de CRUD.
+   - Tecnologias: JavaScript, HTML, CSS, Node.JS, Express e TypeScript.
+   - O que aprendi: Refinei minhas habilidades e manipulação do DOM.
 
 ---
 
