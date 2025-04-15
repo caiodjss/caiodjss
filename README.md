@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Sou estudante de **Desenvolvimento de Sistemas** no **SENAI CIMATEC**, em transição para a área de tecnologia. Estou me especializando no desenvolvimento **fullstack**, com foco nas tecnologias **Java**, **JavaScript**, **TypeScript**, **Node.js** e **React Native**.
+Olá! Sou estudante de **Desenvolvimento de Sistemas** no **SENAI CIMATEC**, em transição para a área de tecnologia. Estou me especializando no desenvolvimento **fullstack**, com foco nas tecnologias **C#**, **JavaScript**, **TypeScript**, **Node.js** e **React Native**.
 
 Atualmente, busco aplicar meus conhecimentos em projetos práticos, sempre focado na evolução contínua e na colaboração com a comunidade.
 
@@ -28,8 +28,6 @@ Aqui estão algumas das tecnologias e ferramentas que estou utilizando para apri
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=000)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=fff)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=fff)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=fff)
