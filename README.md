@@ -28,8 +28,6 @@ Aqui estão algumas das tecnologias e ferramentas que estou utilizando para apri
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=000)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=fff)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
