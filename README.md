@@ -1,19 +1,19 @@
 <h1 align="center">👋 Olá, eu sou o Caio!</h1>
 
 <p align="center">
-  🚀 Estudante de Desenvolvimento de Sistemas • 💻 Futuro QA / Fullstack Dev <br>
-  🎯 Apaixonado por automação, tecnologia e desafios que geram crescimento contínuo
+  🚀 Estudante de Desenvolvimento de Sistemas • 💻 Futuro Dev Fullstack <br>
+  🎯 Apaixonado por tecnologia, automação e desenvolvimento web/mobile
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Desenvolvimento de Sistemas** no **SENAI CIMATEC**, com grande interesse nas áreas de **Qualidade de Software**, **Desenvolvimento Fullstack** e **Testes Automatizados**.
+Sou estudante de **Desenvolvimento de Sistemas** no **SENAI CIMATEC**, com forte interesse em **Desenvolvimento Fullstack**, **DevOps** e **experiências interativas com foco em usabilidade**.
 
-Atualmente estudo e aplico tecnologias como **JavaScript**, **TypeScript**, **Node.js**, **C#**, **React**, **React Native**, **MySQL**, **Cypress** e **Appium**, sempre com foco em boas práticas, CI/CD, e melhoria contínua.
+Atualmente estudo e aplico tecnologias como **JavaScript**, **TypeScript**, **Node.js**, **React**, **React Native**, **C#**, **MySQL** e ferramentas de **testes automatizados** como **Cypress** e **Appium**. Também tenho explorado práticas de **CI/CD**, **Docker** e **Integração de APIs**, sempre buscando escrever código limpo e eficiente.
 
-> 📍 Salvador - BA | 🌱 Sempre aprendendo | 🤝 Aberto a colaborações e parcerias
+> 📍 Salvador - BA | 🌱 Em constante aprendizado | 🤝 Aberto a colaborações e projetos
 
 ---
 
@@ -27,16 +27,16 @@ Atualmente estudo e aplico tecnologias como **JavaScript**, **TypeScript**, **No
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=000)
 
-**Testes & QA**  
+**Testes & Qualidade**  
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Appium](https://img.shields.io/badge/-Appium-00B4AB?style=flat&logo=appium&logoColor=white)
 
-**Banco de Dados & CI/CD**  
+**Banco de Dados & DevOps**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-**Outros**  
+**Ferramentas & IDEs**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
 
@@ -44,24 +44,24 @@ Atualmente estudo e aplico tecnologias como **JavaScript**, **TypeScript**, **No
 
 ## 🚀 Projetos em Destaque
 
-### 🔊 [**Lofi Radio**](https://github.com/caiodjss/lofi-radio)
-🎵 Aplicativo de rádio com React Native e TypeScript  
-🧪 Testes com simuladores e Appium  
-🔗 Foco em UX e APIs de streaming
+### 🔊 [**Lofi Radio**](https://github.com/caiodjss/lofi-radio)  
+🎵 Aplicativo de rádio com múltiplas estações em React Native  
+📱 Foco em UI/UX, experiência mobile e testes com Appium  
+🔗 APIs de streaming e navegação por temas musicais
 
 ---
 
 ### 🧠 [**Bratso**](https://github.com/caiodjss/bratso)  
-💼 Site institucional com backend completo  
-⚙️ React + Node.js + MySQL + CI/CD com GitHub Actions  
-🔍 Práticas de deploy automatizado e segurança
+💼 Website institucional com backend completo  
+⚙️ Stack: React, Node.js, MySQL e deploy com GitHub Actions  
+🔐 Implementações de segurança e boas práticas de DevOps
 
 ---
 
 ### 🛠️ [**Sistema de CRUD**](https://github.com/caiodjss/Projeto1)  
-📋 Aplicação CRUD com Express e TypeScript  
-🧪 Aplicação de testes manuais e boas práticas  
-🌐 HTML, CSS, JavaScript, Express e MySQL
+📋 Aplicação CRUD com Express, TypeScript e MySQL  
+🧪 Desenvolvimento com foco em organização e testes manuais  
+🌐 Frontend básico com HTML, CSS e JavaScript puro
 
 ---
 
@@ -76,7 +76,7 @@ Atualmente estudo e aplico tecnologias como **JavaScript**, **TypeScript**, **No
 
 ## 📬 Vamos conversar?
 
-Se você quiser trocar uma ideia, propor um projeto ou colaboração, será um prazer!
+Se você quiser trocar ideias, propor um projeto ou iniciar uma colaboração, estou totalmente aberto a isso!
 
 - 📧 **Email**: [cdj@outlook.com.br](mailto:cdj@outlook.com.br)  
 - 📱 **WhatsApp**: (71) 99180-6158  
@@ -85,5 +85,5 @@ Se você quiser trocar uma ideia, propor um projeto ou colaboração, será um p
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil! ✨ Vamos criar algo incrível juntos!
+  Obrigado por visitar meu perfil! ✨ Bora criar algo incrível juntos!
 </p>
