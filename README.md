@@ -7,8 +7,6 @@
 
 ---
 
-## 👨‍💻 Sobre mim
-
 Sou estudante de **Desenvolvimento de Sistemas** no **SENAI CIMATEC**, com forte interesse em **Desenvolvimento Fullstack**, **DevOps** e **experiências interativas com foco em usabilidade**.
 
 Atualmente estudo e aplico tecnologias como **JavaScript**, **TypeScript**, **Node.js**, **React**, **React Native**, **C#**, **MySQL** e ferramentas de **testes automatizados** como **Cypress** e **Appium**. Também tenho explorado práticas de **CI/CD**, **Docker** e **Integração de APIs**, sempre buscando escrever código limpo e eficiente.
@@ -42,29 +40,6 @@ Atualmente estudo e aplico tecnologias como **JavaScript**, **TypeScript**, **No
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🔊 [**Lofi Radio**](https://github.com/caiodjss/lofi-radio)  
-🎵 Aplicativo de rádio com múltiplas estações em React Native  
-📱 Foco em UI/UX, experiência mobile e testes com Appium  
-🔗 APIs de streaming e navegação por temas musicais
-
----
-
-### 🧠 [**Bratso**](https://github.com/caiodjss/bratso)  
-💼 Website institucional com backend completo  
-⚙️ Stack: React, Node.js, MySQL e deploy com GitHub Actions  
-🔐 Implementações de segurança e boas práticas de DevOps
-
----
-
-### 🛠️ [**Sistema de CRUD**](https://github.com/caiodjss/Projeto1)  
-📋 Aplicação CRUD com Express, TypeScript e MySQL  
-🧪 Desenvolvimento com foco em organização e testes manuais  
-🌐 Frontend básico com HTML, CSS e JavaScript puro
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -74,16 +49,16 @@ Atualmente estudo e aplico tecnologias como **JavaScript**, **TypeScript**, **No
 
 ---
 
-## 📬 Vamos conversar?
+## Vamos conversar?
 
 Se você quiser trocar ideias, propor um projeto ou iniciar uma colaboração, estou totalmente aberto a isso!
 
-- 📧 **Email**: [cdj@outlook.com.br](mailto:cdj@outlook.com.br)  
-- 📱 **WhatsApp**: (71) 99180-6158  
-- 💼 **LinkedIn**: [linkedin.com/in/caiodejesus](https://www.linkedin.com/in/caiodejesus/)
+- **Email**: [cdj@outlook.com.br](mailto:cdj@outlook.com.br)  
+- **WhatsApp**: (71) 99180-6158  
+- **LinkedIn**: [linkedin.com/in/caiodejesus](https://www.linkedin.com/in/caiodejesus/)
 
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil! ✨ Bora criar algo incrível juntos!
+  Obrigado por visitar meu perfil! 
 </p>
