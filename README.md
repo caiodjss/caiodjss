@@ -9,7 +9,8 @@
 
 Sou estudante de **Desenvolvimento de Sistemas** no **SENAI CIMATEC**, com forte interesse em **Desenvolvimento Fullstack**, **DevOps** e **experiências interativas com foco em usabilidade**.
 
-Atualmente estudo e aplico tecnologias como **JavaScript**, **TypeScript**, **Node.js**, **React**, **React Native**, **C#**, **MySQL** e ferramentas de **testes automatizados** como **Cypress** e **Appium**. Também tenho explorado práticas de **CI/CD**, **Docker** e **Integração de APIs**, sempre buscando escrever código limpo e eficiente.
+Atualmente estudo e aplico tecnologias como JavaScript, TypeScript, C#, .NET, ASP.NET Core, Entity Framework, LINQ, SQL Server, além de ferramentas de testes automatizados como Cypress e Appium. Também tenho explorado práticas de CI/CD, Docker, integração de APIs REST, e sigo focado em aplicar princípios de Clean Code, arquitetura MVC e desenvolvimento backend, sempre buscando escrever código limpo e eficiente.
+
 
 > 📍 Salvador - BA | 🌱 Em constante aprendizado | 🤝 Aberto a colaborações e projetos
 
