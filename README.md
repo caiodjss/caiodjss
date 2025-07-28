@@ -8,9 +8,10 @@
   🎯 Apaixonado por tecnologia, automação e desenvolvimento web/mobile
 </p>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 ## 📍 Sobre mim
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 Sou estudante de **Desenvolvimento de Sistemas** no **SENAI CIMATEC**, com forte interesse em **Desenvolvimento Fullstack**, **DevOps** e **experiências interativas com foco em usabilidade**.
 
