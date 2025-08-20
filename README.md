@@ -4,8 +4,7 @@
 <h1 align="center">👋 Olá, eu sou o Caio!</h1>
 
 <p align="center">
-  🚀 Estudante de Desenvolvimento de Sistemas • 💻 Futuro Dev Fullstack <br>
-  🎯 Apaixonado por tecnologia, automação e desenvolvimento web/mobile
+  Estudante de Desenvolvimento de Sistemas • 💻 Futuro Dev Fullstack <br>
 </p>
 
 
@@ -13,13 +12,10 @@
 ## 📍 Sobre mim
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Sou estudante de **Desenvolvimento de Sistemas** no **SENAI CIMATEC**, com forte interesse em **Desenvolvimento Fullstack**, **DevOps** e **experiências interativas com foco em usabilidade**.
-
+Sou estudante de **Desenvolvimento de Sistemas** no **SENAI CIMATEC**, com forte interesse em **Desenvolvimento Fullstack**.
 Atualmente estudo e aplico tecnologias como:
 
 - **JavaScript, TypeScript, C#, .NET, ASP.NET Core**
-- **Entity Framework, LINQ, SQL Server**
-- **Testes automatizados com Cypress e Appium**
 - **Integração com APIs REST, Docker e CI/CD**
 - Sempre buscando aplicar boas práticas como **Clean Code**, **MVC** e desenvolvimento orientado a serviços.
 
