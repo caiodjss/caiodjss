@@ -31,8 +31,6 @@ Atualmente estudo e aplico tecnologias como:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=fff)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=000)
 
 **🧪 Testes & Qualidade**  
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
