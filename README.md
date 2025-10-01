@@ -10,7 +10,7 @@
 
 
 ## 📍 Sobre mim
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="GIF" height="260px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 Sou estudante de **Desenvolvimento de Sistemas** no **SENAI CIMATEC**, com forte interesse em **Desenvolvimento Fullstack**.
 Atualmente estudo e aplico tecnologias como:
