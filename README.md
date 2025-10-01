@@ -46,25 +46,13 @@ Atualmente estudo e aplico tecnologias como:
 
 ---
 
-##GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=caiodjss&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodjss&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
----
-
-##Vamos conversar?
-
-Se você quiser trocar ideias, propor um projeto ou iniciar uma colaboração, estou totalmente aberto a isso!
-
 - 📧 **Email**: [cdj@outlook.com.br](mailto:cdj@outlook.com.br)  
 - 📱 **WhatsApp**: (71) 99180-6158  
 - 💼 **LinkedIn**: [linkedin.com/in/caiodejesus](https://www.linkedin.com/in/caiodejesus/)
-
----
-
-<p align="center">
-  Obrigado por visitar meu perfil! 🚀
-</p>
