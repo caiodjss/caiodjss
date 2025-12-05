@@ -4,7 +4,7 @@
 Desenvolvedor Backend • APIs • Banco de Dados • Arquitetura de Sistemas  
 </p>
 
-Sou estudante de Engenharia Elétrica com foco em **Desenvolvimento Backend**, criando APIs robustas, seguras e escaláveis.  
+Sou estudante de Desenvolvimento de sistemas com foco em **Desenvolvimento Backend**, criando APIs robustas, seguras e escaláveis.  
 Tenho experiência prática em projetos reais utilizando **Node.js, TypeScript, C#, .NET e SQL**, sempre aplicando boas práticas, organização de código e padrões de arquitetura.
 
 Atualmente estou aprofundando meus conhecimentos em **desenvolvimento de APIs, bancos de dados relacionais, testes automatizados e DevOps**.
