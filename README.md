@@ -4,7 +4,7 @@
 Backend Developer • APIs REST • Debugging • SQL • Data Analysis
 </p>
 
-Desenvolvedor backend em formação, com experiência prática na construção, teste e investigação de APIs REST.
+Desenvolvedor backend, com experiência prática na construção, teste e investigação de APIs.
 
 Atuo com desenvolvimento de sistemas focados em autenticação, integração e manipulação de dados, utilizando Node.js, TypeScript e SQL. Tenho experiência em análise de requisições HTTP, debugging de aplicações e identificação de causa raiz em problemas técnicos.
 
