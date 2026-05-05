@@ -17,8 +17,7 @@ No contexto profissional, aplico análise de dados e consultas SQL para investig
 ### Backend
 - Node.js  
 - TypeScript  
-- JavaScript  
-- C# / .NET  
+- JavaScript
 - Express  
 
 ### APIs e Integração
