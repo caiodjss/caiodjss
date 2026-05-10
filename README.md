@@ -17,8 +17,9 @@ No contexto profissional, aplico análise de dados e consultas SQL para investig
 ### Backend
 - Node.js  
 - TypeScript  
-- JavaScript
+- JavaScript  
 - Express  
+- NestJS  
 
 ### APIs e Integração
 - REST APIs  
@@ -31,12 +32,14 @@ No contexto profissional, aplico análise de dados e consultas SQL para investig
 - PostgreSQL  
 - SQL Server  
 - SQL (SELECT, JOIN, filtros, análise de dados)  
+- Prisma ORM  
 
 ### Testes e Debugging
 - Postman  
 - Insomnia  
 - Testes funcionais  
 - Investigação de erros e análise de logs  
+- Jest / Vitest  
 
 ### DevOps e Ferramentas
 - Docker  
@@ -49,19 +52,11 @@ No contexto profissional, aplico análise de dados e consultas SQL para investig
 
 - Desenvolvimento de APIs com autenticação completa (JWT, 2FA, refresh token)
 - Implementação de fluxos de login, recuperação de senha e ativação de conta
+- Desenvolvimento e estudo de APIs utilizando arquitetura modular com NestJS
 - Investigação de erros em ambiente de produção (logs, integração externa, variáveis de ambiente)
 - Análise e reprodução de problemas utilizando Postman e Insomnia
 - Integração com serviços externos (envio de e-mail via Gmail API e OAuth2)
 - Uso de SQL para validação, auditoria e análise de dados
-
----
-
-## Sobre mim
-
-- Experiência com análise de dados aplicada à investigação de inconsistências
-- Forte foco em diagnóstico de problemas e entendimento de sistemas
-- Interesse em atuar com APIs, debugging e integração entre sistemas
-- Evoluindo constantemente em backend, testes e arquitetura de sistemas
 
 ---
 
