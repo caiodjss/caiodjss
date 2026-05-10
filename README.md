@@ -3,6 +3,7 @@
 <p align="center">
   Backend Developer • APIs REST • Debugging • SQL • Data Analysis
 </p> 
+  <a>
   <a href="https://www.linkedin.com/in/caiodejesus">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
