@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Desenvolvedor backend com experiência prática na construção, teste e investigação de APIs.
 
@@ -35,7 +35,7 @@ Tenho experiência em:
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 ### Backend
 
@@ -66,7 +66,7 @@ Tenho experiência em:
 
 ---
 
-## 🔐 APIs e Integração
+## APIs e Integração
 
 - REST APIs
 - HTTP (headers, payloads, status codes)
@@ -79,7 +79,7 @@ Tenho experiência em:
 
 ---
 
-## 🧠 Experiência prática
+## Experiência prática
 
 - Desenvolvimento de APIs com autenticação completa (JWT, 2FA e refresh token)
 - Implementação de fluxos de login, recuperação de senha e ativação de conta
@@ -91,7 +91,7 @@ Tenho experiência em:
 
 ---
 
-## 📫 Contato
+## Contato
 
 - LinkedIn: https://www.linkedin.com/in/caiodejesus
 - Email: cdj@outlook.com.br
