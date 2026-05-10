@@ -1,66 +1,97 @@
 <h1 align="center">Caio de Jesus</h1>
 
 <p align="center">
-Backend Developer • APIs REST • Debugging • SQL • Data Analysis
+  Backend Developer • APIs REST • Debugging • SQL • Data Analysis
 </p>
 
-Desenvolvedor backend, com experiência prática na construção, teste e investigação de APIs.
+<p align="center">
+  <a href="https://github.com/caiodjss">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/caiodejesus">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-Atuo com desenvolvimento de sistemas focados em autenticação, integração e manipulação de dados, utilizando Node.js, TypeScript e SQL. Tenho experiência em análise de requisições HTTP, debugging de aplicações e identificação de causa raiz em problemas técnicos.
-
-No contexto profissional, aplico análise de dados e consultas SQL para investigação de inconsistências, validação de informações e suporte à tomada de decisão.
+  <a href="mailto:cdj@outlook.com.br">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Tecnologias
+## 👨‍💻 Sobre mim
+
+Desenvolvedor backend com experiência prática na construção, teste e investigação de APIs.
+
+Atuo com desenvolvimento de sistemas focados em autenticação, integração e manipulação de dados, utilizando Node.js, TypeScript e SQL.
+
+Tenho experiência em:
+- análise de requisições HTTP
+- debugging de aplicações
+- investigação de erros
+- identificação de causa raiz
+- análise de dados com SQL
+
+---
+
+## 🚀 Tecnologias
 
 ### Backend
-- Node.js  
-- TypeScript  
-- JavaScript  
-- Express  
-- NestJS  
 
-### APIs e Integração
-- REST APIs  
-- HTTP (headers, payloads, status codes)  
-- Autenticação (JWT, refresh token, 2FA)  
-- Integração com serviços externos (OAuth2, Gmail API)  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,nestjs" />
+</p>
 
 ### Banco de Dados
-- MySQL  
-- PostgreSQL  
-- SQL Server  
-- SQL (SELECT, JOIN, filtros, análise de dados)  
-- Prisma ORM  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=prisma" />
+</p>
+
+### Ferramentas e DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,postman" />
+</p>
 
 ### Testes e Debugging
-- Postman  
-- Insomnia  
-- Testes funcionais  
-- Investigação de erros e análise de logs  
-- Jest / Vitest  
 
-### DevOps e Ferramentas
-- Docker  
-- Git  
-- GitHub Actions  
+- Jest
+- Vitest
+- Insomnia
+- Postman
+- Logs e investigação de erros
 
 ---
 
-## Experiência prática
+## 🔐 APIs e Integração
 
-- Desenvolvimento de APIs com autenticação completa (JWT, 2FA, refresh token)
+- REST APIs
+- HTTP (headers, payloads, status codes)
+- JWT Authentication
+- Refresh Token
+- 2FA
+- OAuth2
+- Gmail API
+- Integração com serviços externos
+
+---
+
+## 🧠 Experiência prática
+
+- Desenvolvimento de APIs com autenticação completa (JWT, 2FA e refresh token)
 - Implementação de fluxos de login, recuperação de senha e ativação de conta
 - Desenvolvimento e estudo de APIs utilizando arquitetura modular com NestJS
-- Investigação de erros em ambiente de produção (logs, integração externa, variáveis de ambiente)
+- Investigação de erros em ambiente de produção
 - Análise e reprodução de problemas utilizando Postman e Insomnia
-- Integração com serviços externos (envio de e-mail via Gmail API e OAuth2)
+- Integração com serviços externos via OAuth2 e Gmail API
 - Uso de SQL para validação, auditoria e análise de dados
 
 ---
 
-## Contato
+## 📫 Contato
 
-LinkedIn: https://www.linkedin.com/in/caiodejesus  
-Email: cdj@outlook.com.br
+- LinkedIn: https://www.linkedin.com/in/caiodejesus
+- Email: cdj@outlook.com.br
