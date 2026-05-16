@@ -111,11 +111,7 @@ Experiência prática com análise de dados, identificação de falhas e suporte
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=caiodjss&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodjss&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://streak-stats.demolab.com?user=caiodjss&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=caiodjss&theme=tokyonight&hide_border=true" />
 
 </div>
 
