@@ -1,92 +1,141 @@
-<h1 align="center">Caio de Jesus</h1>
+# 👋 Caio de Jesus
 
-<p align="center">
-  Backend Developer • APIs REST • Debugging • SQL • Data Analysis
-</p> 
-  <p align="center">
-  <a href="https://www.linkedin.com/in/caiodejesus">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+Desenvolvedor backend, focado em construção de APIs, autenticação, arquitetura de aplicações e troubleshooting de sistemas.
 
-  <a href="mailto:cdj@outlook.com.br">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-</p>
+Atualmente trabalho com Node.js, TypeScript, NestJS e PostgreSQL, desenvolvendo aplicações backend com foco em organização, legibilidade, validação de regras de negócio e análise de fluxo de execução.
+
+Tenho interesse especial em engenharia de software, debugging, segurança de aplicações, autenticação JWT e desenvolvimento de sistemas escaláveis.
 
 ---
 
-## Sobre mim
+# 🚀 Stack Principal
 
-Desenvolvedor backend com experiência prática na construção, teste e investigação de APIs.
-
-Atuo com desenvolvimento de sistemas focados em autenticação, integração e manipulação de dados, utilizando Node.js, TypeScript e SQL.
-
-Tenho experiência em:
-- análise de requisições HTTP
-- debugging de aplicações
-- investigação de erros
-- identificação de causa raiz
-- análise de dados com SQL
-
----
-
-## Tecnologias
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,nestjs" />
-</p>
+### Back-end
+- Node.js
+- TypeScript
+- NestJS
+- Express
+- APIs REST
+- JWT Authentication
 
 ### Banco de Dados
+- PostgreSQL
+- MySQL
+- Prisma ORM
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-  <img src="https://skillicons.dev/icons?i=prisma" />
-</p>
-
-### Ferramentas e DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,postman" />
-</p>
-
-### Testes e Debugging
-
-- Jest
-- Vitest
-- Insomnia
+### Ferramentas
+- Docker
+- Git & GitHub
 - Postman
-- Logs e investigação de erros
+- Insomnia
+
+### Outros Conhecimentos
+- Troubleshooting e debugging
+- HTTP, headers e status codes
+- Testes de APIs
+- Validação de fluxos de aplicação
+- SQL para análise e auditoria
+- Estruturação backend em camadas
 
 ---
 
-## APIs e Integração
+# 🧩 Projetos em Destaque
 
-- REST APIs
-- HTTP (headers, payloads, status codes)
-- JWT Authentication
-- Refresh Token
-- 2FA
-- OAuth2
-- Gmail API
-- Integração com serviços externos
+## 🔹 Compra Mensal — Backend
+
+Backend de uma aplicação de gestão de compras mensais desenvolvido com Node.js, TypeScript e Express.
+
+Projeto focado em autenticação, organização de arquitetura backend, segurança e boas práticas de desenvolvimento.
+
+### Principais funcionalidades
+- Autenticação JWT
+- Login social com OAuth 2.0 (Google)
+- CRUD de produtos e categorias
+- Rotas protegidas
+- Validação de dados
+- Tratamento de erros
+- Estruturação em camadas
+- Testes unitários com Vitest
+- Docker para ambiente de desenvolvimento
+- Husky + Conventional Commits
+
+📌 Repositório:  
+[Backend-Compra-Mensal](https://github.com/caiodjss/Backend-Compra-Mensal)
 
 ---
 
-## Experiência prática
+## 🔹 TeleData — Backend de Autenticação
 
-- Desenvolvimento de APIs com autenticação completa (JWT, 2FA e refresh token)
-- Implementação de fluxos de login, recuperação de senha e ativação de conta
-- Desenvolvimento e estudo de APIs utilizando arquitetura modular com NestJS
-- Investigação de erros em ambiente de produção
-- Análise e reprodução de problemas utilizando Postman e Insomnia
-- Integração com serviços externos via OAuth2 e Gmail API
-- Uso de SQL para validação, auditoria e análise de dados
+Projeto voltado para autenticação e autorização de usuários utilizando JWT e refresh token.
+
+Focado em análise de fluxo de autenticação, investigação de erros, controle de sessões e segurança de acesso.
+
+### Principais conceitos aplicados
+- JWT e refresh token
+- Controle de sessões
+- Fluxo de autenticação
+- Tratamento de erros
+- Testes de endpoints
+- Debugging de requisições HTTP
+- Validação de autenticação
+
+📌 Repositório:  
+[TeleData-Deploy](https://github.com/caiodjss/TeleData-Deploy)
 
 ---
 
-## Contato
+# 💼 Experiência
 
-- LinkedIn: https://www.linkedin.com/in/caiodejesus
+## Bratso Tecnologia e Serviços — Backend Developer
+
+Atuação no desenvolvimento de APIs REST utilizando Node.js, TypeScript e NestJS.
+
+Experiência com autenticação JWT, integração com PostgreSQL utilizando Prisma ORM, debugging de aplicações backend e validação de fluxos de execução.
+
+---
+
+## Santa Casa da Bahia — Auxiliar de Contas a Receber e Glosas I
+
+Atuação com análise de inconsistências, auditoria de informações utilizando SQL e investigação de regras de negócio.
+
+Experiência prática com análise de dados, identificação de falhas e suporte a processos corporativos.
+
+---
+
+
+# 📊 Contribuições
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=caiodjss&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodjss&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="170em" src="https://streak-stats.demolab.com?user=caiodjss&theme=tokyonight&hide_border=true" />
+
+</div>
+
+# 🎯 Objetivos Atuais
+
+- Evoluir como Backend Engineer
+- Aprofundar conhecimentos em arquitetura backend
+- Fortalecer domínio em NestJS e autenticação
+- Aprender mais sobre testes automatizados
+- Melhorar design e escalabilidade de APIs
+- Desenvolver projetos mais próximos de cenários reais
+- Tornar o GitHub cada vez mais técnico e organizado
+
+---
+
+# 📚 Formação
+
+- Desenvolvimento de Sistemas — SENAI CIMATEC
+- Engenharia Elétrica — UFBA
+
+---
+
+# 📫 Contato
+
 - Email: cdj@outlook.com.br
+- LinkedIn: [linkedin.com/in/caiodejesus](https://www.linkedin.com/in/caiodejesus)
+- GitHub: [github.com/caiodjss](https://github.com/caiodjss)
