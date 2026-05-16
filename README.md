@@ -1,10 +1,14 @@
+<div align="center">
+
 # 👋 Caio de Jesus
+</div>
 
 Desenvolvedor backend, focado em construção de APIs, autenticação, arquitetura de aplicações e troubleshooting de sistemas.
 
 Atualmente trabalho com Node.js, TypeScript, NestJS e PostgreSQL, desenvolvendo aplicações backend com foco em organização, legibilidade, validação de regras de negócio e análise de fluxo de execução.
 
 Tenho interesse especial em engenharia de software, debugging, segurança de aplicações, autenticação JWT e desenvolvimento de sistemas escaláveis.
+
 
 ---
 
