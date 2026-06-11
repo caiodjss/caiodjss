@@ -1,141 +1,186 @@
 <div align="center">
 
 # 👋 Caio de Jesus
+
+### Quality Assurance Engineer | APIs | Testes Funcionais | Automação | BDD | SQL | Backend
+
 </div>
 
-Desenvolvedor backend, focado em construção de APIs, autenticação, arquitetura de aplicações e troubleshooting de sistemas.
+Profissional de tecnologia com atuação em desenvolvimento backend, qualidade de software e validação de aplicações.
 
-Atualmente trabalho com Node.js, TypeScript, NestJS e PostgreSQL, desenvolvendo aplicações backend com foco em organização, legibilidade, validação de regras de negócio e análise de fluxo de execução.
+Possuo experiência prática na construção e validação de APIs REST, análise de integrações, troubleshooting, investigação de falhas e testes funcionais. Minha vivência em desenvolvimento backend me permite compreender o comportamento das aplicações além da interface, facilitando a identificação de inconsistências, análise de logs e validação de regras de negócio.
 
-Tenho interesse especial em engenharia de software, debugging, segurança de aplicações, autenticação JWT e desenvolvimento de sistemas escaláveis.
-
+Atualmente atuo com Node.js, TypeScript, NestJS e PostgreSQL, aplicando conceitos de qualidade de software, testes de APIs, debugging e automação para entregar aplicações mais confiáveis, seguras e escaláveis.
 
 ---
 
-# 🚀 Stack Principal
+# 🚀 Principais Competências
 
-### Back-end
-- Node.js
-- TypeScript
-- NestJS
-- Express
-- APIs REST
-- JWT Authentication
+### 🔹 Quality Assurance
 
-### Banco de Dados
-- PostgreSQL
-- MySQL
-- Prisma ORM
+* Testes Funcionais
+* Testes Exploratórios
+* Testes de Regressão
+* Testes de APIs
+* Validação de Regras de Negócio
+* BDD (Behavior Driven Development)
+* Investigação e Reprodução de Bugs
+* Root Cause Analysis
+* Troubleshooting
 
-### Ferramentas
-- Docker
-- Git & GitHub
-- Postman
-- Insomnia
+### 🔹 Automação de Testes
 
-### Outros Conhecimentos
-- Troubleshooting e debugging
-- HTTP, headers e status codes
-- Testes de APIs
-- Validação de fluxos de aplicação
-- SQL para análise e auditoria
-- Estruturação backend em camadas
+* Cypress
+* Testes Automatizados de APIs
+* Validação de Fluxos End-to-End
+* Estruturação de Cenários de Teste
+* Gherkin
+
+### 🔹 Backend & APIs
+
+* Node.js
+* TypeScript
+* NestJS
+* Express
+* APIs REST
+* JWT Authentication
+* Refresh Token
+* OAuth 2.0
+
+### 🔹 Banco de Dados
+
+* PostgreSQL
+* MySQL
+* SQL
+* Prisma ORM
+
+### 🔹 Ferramentas
+
+* Postman
+* Insomnia
+* Docker
+* Git & GitHub
 
 ---
 
 # 🧩 Projetos em Destaque
 
-## 🔹 Compra Mensal — Backend
+## 🔹 Compra Mensal — Backend API
 
-Backend de uma aplicação de gestão de compras mensais desenvolvido com Node.js, TypeScript e Express.
+Backend desenvolvido com Node.js, TypeScript e Express para gerenciamento de compras mensais.
 
-Projeto focado em autenticação, organização de arquitetura backend, segurança e boas práticas de desenvolvimento.
+Além do desenvolvimento da API, o projeto possui foco em validação de fluxos, autenticação segura e boas práticas de engenharia de software.
 
 ### Principais funcionalidades
-- Autenticação JWT
-- Login social com OAuth 2.0 (Google)
-- CRUD de produtos e categorias
-- Rotas protegidas
-- Validação de dados
-- Tratamento de erros
-- Estruturação em camadas
-- Testes unitários com Vitest
-- Docker para ambiente de desenvolvimento
-- Husky + Conventional Commits
 
-📌 Repositório:  
-[Backend-Compra-Mensal](https://github.com/caiodjss/Backend-Compra-Mensal)
+* Autenticação JWT
+* OAuth 2.0 (Google)
+* CRUD de produtos e categorias
+* Rotas protegidas
+* Validação de dados
+* Tratamento centralizado de erros
+* Testes unitários com Vitest
+* Docker
+* Husky + Conventional Commits
+
+📌 Repositório:
+https://github.com/caiodjss/Backend-Compra-Mensal
 
 ---
 
-## 🔹 TeleData — Backend de Autenticação
+## 🔹 TeleData — Sistema de Autenticação
 
-Projeto voltado para autenticação e autorização de usuários utilizando JWT e refresh token.
+Projeto focado na implementação e validação de mecanismos de autenticação e autorização.
 
-Focado em análise de fluxo de autenticação, investigação de erros, controle de sessões e segurança de acesso.
+Desenvolvido para aprofundar conhecimentos em controle de acesso, segurança de aplicações e análise de fluxos de autenticação.
 
-### Principais conceitos aplicados
-- JWT e refresh token
-- Controle de sessões
-- Fluxo de autenticação
-- Tratamento de erros
-- Testes de endpoints
-- Debugging de requisições HTTP
-- Validação de autenticação
+### Conceitos aplicados
 
-📌 Repositório:  
-[TeleData-Deploy](https://github.com/caiodjss/TeleData-Deploy)
+* JWT
+* Refresh Token
+* Controle de Sessões
+* Autorização baseada em permissões
+* Testes de endpoints
+* Debugging de requisições HTTP
+* Tratamento de erros
+* Validação de autenticação
+
+📌 Repositório:
+https://github.com/caiodjss/TeleData-Deploy
 
 ---
 
 # 💼 Experiência
 
-## Bratso Tecnologia e Serviços — Backend Developer
+## Bratso Tecnologia e Serviços
 
-Atuação no desenvolvimento de APIs REST utilizando Node.js, TypeScript e NestJS.
+### Quality Assurance Engineer | Backend Developer
 
-Experiência com autenticação JWT, integração com PostgreSQL utilizando Prisma ORM, debugging de aplicações backend e validação de fluxos de execução.
+* Desenvolvimento e manutenção de APIs REST utilizando Node.js, TypeScript e NestJS;
+* Testes funcionais e validação de endpoints utilizando Postman e Insomnia;
+* Estruturação de cenários utilizando conceitos de BDD;
+* Investigação, reprodução e correção de bugs;
+* Análise de integrações e requisições HTTP;
+* Validação de autenticação JWT e controle de acesso;
+* Integração com PostgreSQL utilizando Prisma ORM;
+* Aplicação de automação de testes utilizando Cypress;
+* Apoio contínuo na melhoria da qualidade e confiabilidade das aplicações.
 
 ---
 
-## Santa Casa da Bahia — Auxiliar de Contas a Receber e Glosas I
+## Santa Casa da Bahia
 
-Atuação com análise de inconsistências, auditoria de informações utilizando SQL e investigação de regras de negócio.
+### Auxiliar de Contas a Receber e Glosas I
 
-Experiência prática com análise de dados, identificação de falhas e suporte a processos corporativos.
+* Análise de dados e validação de informações corporativas;
+* Investigação de inconsistências e divergências operacionais;
+* Análise de regras de negócio;
+* Elaboração de relatórios analíticos;
+* Identificação e reporte de falhas;
+* Garantia da integridade e confiabilidade dos dados.
 
 ---
 
-
-# 📊 Contribuições
+# 📊 Estatísticas
 
 <div align="center">
 
-  <img height="170em" src="https://streak-stats.demolab.com?user=caiodjss&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://streak-stats.demolab.com?user=caiodjss&theme=tokyonight&hide_border=true" />
 
 </div>
 
+---
+
 # 🎯 Objetivos Atuais
 
-- Evoluir como Backend Engineer
-- Aprofundar conhecimentos em arquitetura backend
-- Fortalecer domínio em NestJS e autenticação
-- Aprender mais sobre testes automatizados
-- Melhorar design e escalabilidade de APIs
-- Desenvolver projetos mais próximos de cenários reais
-- Tornar o GitHub cada vez mais técnico e organizado
+* Evoluir como Quality Assurance Engineer
+* Aprimorar conhecimentos em automação de testes
+* Desenvolver projetos completos de QA Web e API
+* Aprofundar conhecimentos em Cypress e Playwright
+* Expandir conhecimentos em testes automatizados de APIs
+* Fortalecer conhecimentos em qualidade de software e engenharia de testes
+* Construir aplicações confiáveis e escaláveis
 
 ---
 
 # 📚 Formação
 
-- Desenvolvimento de Sistemas — SENAI CIMATEC
-- Engenharia Elétrica — UFBA
+### Engenharia Elétrica
+
+Universidade Federal da Bahia (UFBA)
+
+### Desenvolvimento de Sistemas
+
+SENAI CIMATEC
 
 ---
 
 # 📫 Contato
 
-- Email: cdj@outlook.com.br
-- LinkedIn: [linkedin.com/in/caiodejesus](https://www.linkedin.com/in/caiodejesus)
-- GitHub: [github.com/caiodjss](https://github.com/caiodjss)
+📧 Email: [cdj@outlook.com.br](mailto:cdj@outlook.com.br)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/caiodejesus
+
+🐙 GitHub:
+https://github.com/caiodjss
