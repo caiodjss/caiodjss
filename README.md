@@ -67,7 +67,6 @@ Tenho interesse especial em arquitetura de APIs, autenticação, observabilidade
 * Testes de Integração
 * Cypress
 * BDD
-* Gherkin
 * Validação de requisitos
 
 ## Ferramentas
